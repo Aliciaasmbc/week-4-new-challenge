@@ -7,7 +7,7 @@ export default function footer() {
     <p>
       This project is{" "}
       <a
-        href="https://github.com/Aliciaasmbc/week-4-challenge-react"
+        href="https://github.com/Aliciaasmbc/week-4-new-challenge"
         target="_blank"
         rel="noreferrer"
       >
